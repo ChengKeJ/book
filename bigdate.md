@@ -1,4 +1,4 @@
-+ [Program In Scala](project/book/Programming_in_Scala.md)
++ [Program In Scala](Programming_in_Scala.md)
 + [Program In Scala(中文版)[不全]](Scala编程(中文版).md)
 + [Scala课堂(Twitter)【OL】](http://twitter.github.io/scala_school/zh_cn)
 + [Effective-Scala【OL】](http://twitter.github.io/effectivescala/index-cn.html)
