@@ -6,4 +6,4 @@
 
 
 [GitHub](https://github.com/ChengKeJ/book.git)
-[Get Started](https://smalltechnologyjun.com/book/#/)
+[Get Started](https://smalltechnologyjun.com/book/#/index)
