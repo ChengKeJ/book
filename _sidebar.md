@@ -1,7 +1,5 @@
 
-- [电子书](#电子书)
-    + [Java series of books](Java_Concurrency_in_Practice.md)
-    + [index](index.md)
+- [Book Resource](index.md)
     + [Java](java.md)
     + [大数据](bigdate.md)
     + [Python](python.md)
