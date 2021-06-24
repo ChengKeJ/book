@@ -22,19 +22,22 @@
         },
         search : [
       '/',            // => /README.md
-       // => /zh-cn/README.md
+       '/java',// => /zh-cn/README.md
+       '/python',
+       '/db',
+       'internet'  
     ],
 
     // complete configuration parameters
     search: {
       maxAge: 86400000, // Expiration time, the default one day
       paths: [], // or 'auto'
-      placeholder: 'Type to search',
+      placeholder: 'search',
 
       // Localization
       placeholder: {
         '/zh-cn/': '搜索',
-        '/': 'Type to search'
+        '/': 'search'
       },
 
       noData: 'No Results!',
