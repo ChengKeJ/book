@@ -20,18 +20,11 @@
         alias: {
             '/.*/_sidebar.md': '/_sidebar.md'
         },
-        search : [
-      '/',            // => /README.md
-       '/java',// => /zh-cn/README.md
-       '/python',
-       '/db',
-       'internet'  
-    ],
-
+      
     // complete configuration parameters
     search: {
       maxAge: 86400000, // Expiration time, the default one day
-      paths: [], // or 'auto'
+      paths: 'auto', // or 'auto'
       placeholder: 'search',
 
       // Localization
@@ -53,20 +46,7 @@
 
       hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 
-      // To avoid search index collision
-      // between multiple websites under the same domain
-      namespace: 'https://smalltechnologyjun.com/book',
-
-      // Use different indexes for path prefixes (namespaces).
-      // NOTE: Only works in 'auto' mode.
-      //
-      // When initialiazing an index, we look for the first path from the sidebar.
-      // If it matches the prefix from the list, we switch to the corresponding index.
-      pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
-
-      // You can provide a regexp to match prefixes. In this case,
-      // the matching substring will be used to identify the index
-      pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/
+      
       }
     }
 </script>
