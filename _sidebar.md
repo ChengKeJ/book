@@ -7,3 +7,4 @@
     + [PHP](#php)
     + [网络](internet.md)
     + [数据库](db.md)
+    + [blog](https://smalltechnologyjun.com/)
